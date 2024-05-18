@@ -1,5 +1,4 @@
 # 3.2-Sentiment_Analysis_Hospitatlity_Customer_Review
-Sentiment_Analysis_Hospitatlity_Customer_Review
 Sentiment Analysis for Hospitality Customer Reviews
 Problem Statement
 The goal of this project is to build a sentiment analysis model that can classify customer reviews and feedback for a hospitality company as positive, negative, or neutral. The model will also identify key topics or areas of concern.
@@ -63,3 +62,5 @@ Deploying the model as a web application using Flask and HTML allows users to in
 
 Conclusion
 Our sentiment analysis model offers a scalable and efficient solution for classifying customer reviews in the hospitality industry. By accurately categorizing feedback, businesses can identify areas for improvement and enhance customer satisfaction.
+
+
