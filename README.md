@@ -51,8 +51,6 @@ Creating a pipeline that combines preprocessing and model training streamlines t
 # Models
 Experimenting with various models such as Support Vector Machine, Logistic Regression, Naive Bayes, and Decision Tree to identify the best-performing model for sentiment analysis.
 
-# Hyperparameter Tuning
-Fine-tuning hyperparameters, such as the maximum depth of a Decision Tree, enhances the model's performance.
 
 # Model Deployment
 Saving the Model
